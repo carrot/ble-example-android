@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BLE Peripheral Android</string>
+    <string name="bluetooth_not_found">Bluetooth Not Found!</string>
+    <string name="not_able_to_find_device">Not able to find a Device..</string>
+    <string name="connecting">Connecting..</string>
+    <string name="searching">Searching..</string>
+    <string name="connected_to_ble_device">Connected to BLE Device.</string>
+    <string name="error_location_permissions">Error Location Permission </string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="lights_on">Lights on!</string>
+    <string name="lights_off">Lights off</string>
+</resources>
